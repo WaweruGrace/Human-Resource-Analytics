@@ -1,0 +1,12 @@
+Project Overview
+This project presents an interactive HR Analytics Dashboard developed using Microsoft Power BI.The objectives wasto transform employee data into meanful inights that can support Human Resource decision making.The analysis  focuses on Workforce composition,Employee attrition,Departmental performance,Compensation and Diversity.
+Project Objectives
+analyze thre overall workforce structure.
+identify departments and job roles with higher attrition.
+analyze employee performance across departments.
+analyze workforce diversity by gender,age, and educatin levels.
+identify key Human Resource trends and provide data driven recommendations.
+Tools and Technologies
+Microsoft Power BI- dashboard development and visualization.
+Power Query-Data cleaning and transformation
+DAX-Calculations and analytical measures
