@@ -31,3 +31,17 @@ The analysis highlights differences in employee attrition, workforce composition
 
 👩‍💻 Skills Demonstrated
 Data Cleaning | Data Analysis | Power BI | Power Query | DAX | Data Visualization | Dashboard Design | HR Analytics
+
+## 📊 Dashboard Preview
+
+### Workforce Overview
+![Workforce Overview](Workforce_Overview.png)
+
+### Attrition Analysis
+![Attrition Analysis](Attrition_Analysis.png)
+
+### Departmental Performance
+![Departmental Performance](Departmental_Performance.png)
+
+### Compensation & Diversity
+![Compensation & Diversity](Compensation_Diversity.png)
