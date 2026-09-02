@@ -38,7 +38,7 @@ Data Cleaning | Data Analysis | Power BI | Power Query | DAX | Data Visualizatio
 ![Workforce Overview](Workforce_Overview.png)
 
 ### Attrition Analysis
-![Attrition Analysis](https://raw.githubusercontent.com/WaweruGrace/Human-Resource-Analytics/main/Attrition_Analysis.png)
+https://github.com/WaweruGrace/Human-Resource-Analytics/blob/main/Attrition_%20Analysis.png?raw=true
 
 ### Departmental Performance
 ![Departmental Performance](Departmental_Performance.png)
