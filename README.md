@@ -36,7 +36,6 @@ Data Cleaning | Data Analysis | Power BI | Power Query | DAX | Data Visualizatio
 
 ### Workforce Overview
 ![Workforce Overview](Workforce_Overview.png)
-
 ### Attrition Analysis
 ![Attrition Analysis](Attrition_Analysis.png)
 
